@@ -28,8 +28,7 @@
     <image name="indicator_bg" extra="true">
         <tile>false</tile>
         <path>./_art/indicators/logo.png</path>
-        <size>0 1</size>
-        <pos>0.02 0</pos>
+        <pos>0.4 0.05</pos>
     </image>
 
     <carousel name="systemcarousel">
@@ -64,7 +63,7 @@
         <fontSize>0.021</fontSize>
         <color>9b9a9a</color>
         <origin>0 0</origin>
-        <pos>0.12 0.1055</pos>
+        <pos>0.02 0.1055</pos>
         <size>0.320 0.033</size>
     </text>
 
@@ -75,7 +74,7 @@
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
-        <pos>0.12 0.3611</pos>
+        <pos>0.02 0.3611</pos>
         <size>0.200 0.039</size>
         <fontSize>0.0315</fontSize>
     </text>
@@ -88,7 +87,7 @@
         <color>8F8F8F</color>
  	<lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
-        <pos>0.12 0.360</pos>
+        <pos>0.02 0.360</pos>
         <size>0.28 0.20</size>
     </text>
 
@@ -96,7 +95,7 @@
 		<path>./_art/var/button.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.12 0.545</pos>
+        <pos>0.02 0.545</pos>
         <size>0 0.044</size>
     </image>
 
@@ -113,7 +112,7 @@
         <path>./_art/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.12 0.61</pos>
+        <pos>0.02 0.61</pos>
         <maxSize>0.32 0.32</maxSize>
     </image>
 </view>

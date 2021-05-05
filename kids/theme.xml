@@ -5,7 +5,7 @@
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
     <text>Kids Genre</text>
-  </text>
+  </text>s
 </view>    
 
 <view name="system">
@@ -13,7 +13,7 @@
     <text>Kids</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.02 0.130</pos>
     <size>0 0</size>
   </text>    
   <text name="shortdescription" extra="true">
